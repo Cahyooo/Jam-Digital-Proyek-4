@@ -30,8 +30,8 @@
     background-color: rgb(223, 57, 57);
     margin: 4.5vw 0 22.1vw 25vw;
     position: absolute;
-    z-index: 2;
-    /* animation: putarSec 60s infinite linear; */
+    z-index: 4;
+    animation: putarSec 60s infinite linear;
     background: linear-gradient(to bottom, rgb(223, 57, 57) 0%, rgb(223, 57, 57) 50%, transparent 50%);
 }
 
@@ -42,7 +42,7 @@
     margin: 3.3vw 0 22.1vw 25vw;
     position: absolute;
     z-index: 3;
-    /* animation: putarMin 3600s infinite linear; */
+    animation: putarMin 3600s infinite linear;
     background: linear-gradient(to bottom, black 0%, black 50%, transparent 50%);
 }
 
@@ -52,8 +52,8 @@
     background-color: rgb(15, 13, 13);
     margin: 10.3vw 0 22.1vw 24.95vw;
     position: absolute;
-    z-index: 4;
-    /* animation: putarHour 216000s infinite linear; */
+    z-index: 2;
+    animation: putarHour 216000s infinite linear;
     background: linear-gradient(to bottom, black 0%, black 50%, transparent 50%);
 }
 
