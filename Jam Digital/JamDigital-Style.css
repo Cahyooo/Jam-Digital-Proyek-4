@@ -53,7 +53,7 @@
     margin: 10.3vw 0 22.1vw 24.95vw;
     position: absolute;
     z-index: 2;
-    animation: putarHour 216000s infinite linear;
+    animation: putarHour 86400s infinite linear;
     background: linear-gradient(to bottom, black 0%, black 50%, transparent 50%);
 }
 
